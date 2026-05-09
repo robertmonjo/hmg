@@ -1,4 +1,4 @@
-# Hyperconical Modified Gravity Reproducibility Hub
+# Hyperconical Modified Gravity reproducibility hub
 
 This repository serves as the parent index for reproducible studies in hyperconical modified gravity (HMG).
 
