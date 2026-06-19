@@ -5,14 +5,17 @@ This repository serves as the parent index for reproducible studies in hyperconi
 ## Reproducible studies
 
 - [hmg-udg-repro](https://github.com/robertmonjo/hmg-udg-repro)
-  - Reproducible scripts for the manuscript:
-    - *Gas-rich ultra-diffuse galaxies: alleviating the MOND tension with HMG*
-  - Includes Python and R implementations, a reproducible Table 2 export, and a beardplot-style figure.
+  — *Gas-rich ultra-diffuse galaxies: alleviating the MOND tension with HMG*
+  — Python and R scripts, Table 2, beardplot figure.
+
+- [vertical_gravity_hmg](https://github.com/robertmonjo/vertical_gravity_hmg)
+  — *Vertical gravitational potential of the Milky Way as a multi-model benchmark* (Wang et al. 2026, submitted)
+  — Tests 11 gravity models (CDM, MOND variants, HMG, f(R), STVG) against rotation-curve and vertical-potential data. HMG matches or exceeds CDM Einasto in ~30% of baryonic realizations.
 
 ## Purpose
 
-The aim of this parent repository is to provide a central entry point for reproducible HMG results across different astrophysical systems. Additional child repositories can be added here as new studies are released, for example on galaxy clusters, weak lensing, or broader acceleration-relation analyses.
+Central entry point for reproducible HMG results across different astrophysical systems. Additional repositories will be added as new studies are released.
 
 ## Citation
 
-Please cite the corresponding child repository and archived software DOI for each specific reproducible study.
+Please cite the corresponding repository and its archived Zenodo DOI for each specific study.
