@@ -10,7 +10,7 @@ This repository serves as the parent index for reproducible studies in hyperconi
 
 - [vertical_gravity_hmg](https://github.com/robertmonjo/vertical_gravity_hmg)
   — *Vertical gravitational potential of the Milky Way as a multi-model benchmark* (Wang et al. 2026, submitted)
-  — Tests 11 gravity models (CDM, MOND variants, HMG, f(R), STVG) against rotation-curve and vertical-potential data. HMG matches or exceeds CDM Einasto in ~30% of baryonic realizations.
+  — Tests 11 model variants from 7 gravity frameworks (QUMOND, STVG, CDM NFW/Einasto, f(R) screened, Refracted Gravity, VEG, and HMG) against Wang+2026 rotation-curve and vertical-potential data. HMG is competitive with CDM Einasto in ~46% of baryonic realizations and outperforms it in ~28%.
 
 ## Purpose
 
