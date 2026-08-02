@@ -24,6 +24,10 @@ This repository serves as the parent index for reproducible studies in hyperconi
   — *Hydrostatic equilibrium constraints in X-COP galaxy clusters* (ApJ 981, 195, 2025)
   — Python and R scripts: Table 2 (per-cluster chi^2 and significance) and Figures 0–2 testing HMG, MOND and Newton against X-COP mass profiles.
 
+- [Weak_lensing_flat_rotation](https://github.com/robertmonjo/Weak_lensing_flat_rotation)
+  — *Comparison of HMG and flat rotation velocities inferred from galaxy-galaxy weak lensing* (ApJ 982, 70, 2025)
+  — Python and R scripts: Fig 0–2 and appendix figure comparing observed vs modelled (MOND, gamma-HMG, eps-HMG) circular and flat velocities from Mistele et al. weak-lensing data; a0 = 1.21 and 1.63e-10 m/s^2.
+
 ## Purpose
 
 Central entry point for reproducible HMG results across different astrophysical systems. Additional repositories will be added as new studies are released.
