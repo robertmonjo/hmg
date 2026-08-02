@@ -16,6 +16,10 @@ This repository serves as the parent index for reproducible studies in hyperconi
   — *Galaxy rotation curve in hyperconical universes: a natural relativistic MOND* (CQG 40, 235002, 2023)
   — Python and R scripts: radial-acceleration relation, baryonic Tully–Fisher (M ~ V^4), from a single scale c/t = 6.94e-10 m/s^2 (mean gamma0/pi = 3.81 over the SPARC sample).
 
+- [distinct_acceleration_relations](https://github.com/robertmonjo/distinct_acceleration_relations)
+  — *Distinct acceleration relations of galaxies and galaxy clusters from hyperconical modified gravity* (ApJ 992, 35, 2025)
+  — R scripts: Figures 1, 2, 4, 5 and Table 1 (one-parameter general model and two-parameter cluster model), with a regression test against the published values.
+
 - [hydrostatic_equilibrium](https://github.com/robertmonjo/hydrostatic_equilibrium)
   — *Hydrostatic equilibrium constraints in X-COP galaxy clusters* (ApJ 981, 195, 2025)
   — Python and R scripts: Table 2 (per-cluster chi^2 and significance) and Figures 0–2 testing HMG, MOND and Newton against X-COP mass profiles.
