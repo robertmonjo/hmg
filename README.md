@@ -9,7 +9,7 @@ This repository serves as the parent index for reproducible studies in hyperconi
   — Python and R scripts, Table 2, beardplot figure.
 
 - [vertical_gravity](https://github.com/robertmonjo/vertical_gravity)
-  — *Vertical gravitational potential of the Milky Way as a multi-model benchmark* (Wang et al. 2026, submitted)
+  — *Radial--vertical gravity decoupling in the Milky Way: Modified gravity and dark matter tests using Gaia~DR3* 
   — Self-contained reproducible release: tests 11 model variants from 7 gravity frameworks (QUMOND, STVG, CDM NFW/Einasto, f(R) screened, Refracted Gravity, VEG, and HMG) against Wang+2026 rotation-curve and vertical-potential data. HMG is competitive with CDM Einasto in ~46% of baryonic realizations and outperforms it in ~28%.
 
 - [galaxy_rotation_curve](https://github.com/robertmonjo/galaxy_rotation_curve)
