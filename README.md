@@ -28,6 +28,10 @@ This repository serves as the parent index for reproducible studies in hyperconi
   — *Comparison of HMG and flat rotation velocities inferred from galaxy-galaxy weak lensing* (ApJ 982, 70, 2025)
   — Python and R scripts: Fig 0–2 and appendix figure comparing observed vs modelled (MOND, gamma-HMG, eps-HMG) circular and flat velocities from Mistele et al. weak-lensing data; a0 = 1.21 and 1.63e-10 m/s^2.
 
+- [inhomogeneous_cosmology](https://github.com/robertmonjo/inhomogeneous_cosmology)
+  — *Study of the observational compatibility of an inhomogeneous cosmology with linear expansion according to SNe Ia* (PRD 96, 103505, 2017)
+  — Python and R scripts: SNe Ia (SCP Union2.1) distance-modulus and F_T fits, isochronous hypersurfaces, and chi^2 vs curvature for the three hyperconical projections; the three official figures are verified against arXiv:1710.09697 (v4).
+
 ## Purpose
 
 Central entry point for reproducible HMG results across different astrophysical systems. Additional repositories will be added as new studies are released.
