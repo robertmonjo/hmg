@@ -28,6 +28,10 @@ Index of the reproducibility packages for the hyperconical modified gravity (HMG
   — *Comparison of HMG and flat rotation velocities inferred from galaxy-galaxy weak lensing* (ApJ 982, 70, 2025)
   — Python and R scripts reproducing the paper's figures and the MOND, gamma-HMG and eps-HMG fits to the Mistele et al. weak-lensing velocities: a0 = 1.21e-10 m/s^2 (circular) and 1.60e-10 m/s^2 (flat, fitted on the 22 independent points).
 
+- [lensing_RAR_KiDS](https://github.com/robertmonjo/lensing_RAR_KiDS)
+  — *Weak-lensing radial acceleration relation of KiDS-1000 isolated galaxies*
+  — Python scripts testing HMG against MOND and LambdaCDM on the radial-acceleration relation of isolated galaxies from KiDS-1000 galaxy-galaxy weak lensing.
+
 - [inhomogeneous_cosmology](https://github.com/robertmonjo/inhomogeneous_cosmology)
   — *Study of the observational compatibility of an inhomogeneous cosmology with linear expansion according to SNe Ia* (PRD 96, 103505, 2017)
   — Python and R scripts: SNe Ia (SCP Union2.1) distance-modulus and F_T fits, isochronous hypersurfaces, and chi^2 vs curvature for the three hyperconical projections; the three official figures are verified against arXiv:1710.09697 (v4).
