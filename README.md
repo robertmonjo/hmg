@@ -26,7 +26,7 @@ Index of the reproducibility packages for the hyperconical modified gravity (HMG
 
 - [weak_lensing_flat_rotation](https://github.com/robertmonjo/weak_lensing_flat_rotation)
   — *Comparison of HMG and flat rotation velocities inferred from galaxy-galaxy weak lensing* (ApJ 982, 70, 2025)
-  — Python and R scripts: Fig 0–2 and appendix figure comparing observed vs modelled (MOND, gamma-HMG, eps-HMG) circular and flat velocities from Mistele et al. weak-lensing data; a0 = 1.21e-10 (circular, Table 1) and 1.60e-10 m/s^2 (flat, Table 2, fitted on the 22 independent points).
+  — Python and R scripts reproducing the paper's figures and the MOND, gamma-HMG and eps-HMG fits to the Mistele et al. weak-lensing velocities: a0 = 1.21e-10 m/s^2 (circular) and 1.60e-10 m/s^2 (flat, fitted on the 22 independent points).
 
 - [inhomogeneous_cosmology](https://github.com/robertmonjo/inhomogeneous_cosmology)
   — *Study of the observational compatibility of an inhomogeneous cosmology with linear expansion according to SNe Ia* (PRD 96, 103505, 2017)
