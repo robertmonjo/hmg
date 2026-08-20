@@ -24,7 +24,7 @@ Index of the reproducibility packages for the hyperconical modified gravity (HMG
   — *Hydrostatic equilibrium constraints in X-COP galaxy clusters* (ApJ 981, 195, 2025)
   — Python and R scripts: Table 2 (per-cluster chi^2 and significance) and Figures 0–2 testing HMG, MOND and Newton against X-COP mass profiles.
 
-- [Weak_lensing_flat_rotation](https://github.com/robertmonjo/Weak_lensing_flat_rotation)
+- [weak_lensing_flat_rotation](https://github.com/robertmonjo/weak_lensing_flat_rotation)
   — *Comparison of HMG and flat rotation velocities inferred from galaxy-galaxy weak lensing* (ApJ 982, 70, 2025)
   — Python and R scripts: Fig 0–2 and appendix figure comparing observed vs modelled (MOND, gamma-HMG, eps-HMG) circular and flat velocities from Mistele et al. weak-lensing data; a0 = 1.21e-10 (circular, Table 1) and 1.60e-10 m/s^2 (flat, Table 2, fitted on the 22 independent points).
 
