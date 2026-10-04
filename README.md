@@ -36,6 +36,10 @@ Index of the reproducibility packages for the hyperconical modified gravity (HMG
   — *Study of the observational compatibility of an inhomogeneous cosmology with linear expansion according to SNe Ia* (PRD 96, 103505, 2017)
   — Python and R scripts: SNe Ia (SCP Union2.1) distance-modulus and F_T fits, isochronous hypersurfaces, and chi^2 vs curvature for the three hyperconical projections; the three official figures are verified against arXiv:1710.09697 (v4).
 
+- [bao_sn_bbn](https://github.com/robertmonjo/bao_sn_bbn)
+  — *Coasting cosmology compatible with BAO and nucleosynthesis* (submitted to Physics Letters B)
+  — Python scripts: the hyperconical coasting universe (a(t) ~ t) fitted to DESI DR1 BAO, Pantheon+ SNe Ia, and primordial nucleosynthesis, with a two-parameter running projection index alpha(z) that reproduces the helium fraction Y_p and the D/H ratio (Table 1).
+
 ## Scope
 
 The studies span galaxy rotation, galaxy clusters, weak lensing and cosmology. New repositories join the list as papers come out.
